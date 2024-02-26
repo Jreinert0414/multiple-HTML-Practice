@@ -1,0 +1,117 @@
+header {
+    color: chocolate;
+    text-align: center;
+   
+}
+html {
+    background-color: 50727B;
+    height:50%;
+    width:auto;
+}
+ 
+main {
+ 
+}
+
+nav {
+    font-size: 1em;
+    display: flex 50%;
+    background-color: #23697e;
+    text-decoration: none;
+    
+
+    }
+
+a:visited, a:active {
+    color: rgb(184, 135, 44);
+}
+
+a:visited {
+color: rgb(74, 24, 121);
+text-decoration: none;
+}
+
+a:hover {
+font-size: 200%;
+color: aliceblue;
+
+
+}
+.page-heading{
+    background-color: rgb(122, 120, 84);
+}
+
+.space-marines {
+    text-align: center;
+    justify-content: center;
+}
+
+.necrons {
+    text-align: left;
+}
+.title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 75pt;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+ol {
+    padding-right: 10%;
+    text-align: left;
+    
+    }
+ul {
+        padding-right: 10%;
+        text-align: left;
+        
+}
+
+
+#marine-list {
+    display: flex;
+    align-items: center;
+}
+#bug-list {
+    /* display: flex; */
+    align-items: center;
+}
+
+#warhammer{
+    font-size: 50pt;
+    padding-top: 3%;
+    background-color: #23697e;
+}
+
+nav > a {
+    padding-top: 10;
+    padding-bottom: 10;
+    padding-left: 25;
+    padding-right: 25;
+}
+#tyranids{
+  
+  height:50%;
+  width:auto;
+}
+
+
+#marine-list{
+align-items: center;
+}
+
+
+body {
+    text-align: center;
+    justify-content: center ;
+}
+.container {
+/* display: flex; */
+justify-content: space-evenly;
+width: auto;
+/* height: 50% !important; */
+}
+
+#legions{
+    max-width: 75% !important;
+    max-height: auto !important;
+}
